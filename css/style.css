@@ -171,4 +171,8 @@ form {
     background-color:white;
 }
 
+.foot jumbotron text-center{
 
+  color: black;
+  background-color: #3B5998;
+}
