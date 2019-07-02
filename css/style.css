@@ -94,7 +94,7 @@ body
   }
   .grid-section img
 {
-    height: 200px;
+    height: 250px;
     width: 200px;
     margin: auto;
    justify-content: space-between;
@@ -171,8 +171,13 @@ form {
     background-color:white;
 }
 
-.foot jumbotron text-center{
+.jumbotron {
+ 
+  background-color: #000000;
+ 
+}
 
-  color: black;
-  background-color: #3B5998;
+.text-center {
+  text-align: center!important;
+  color: azure;
 }
